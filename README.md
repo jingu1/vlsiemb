@@ -1,4 +1,4 @@
 #VLSI_EMB
 
-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      
-https://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@github.com/jingu1/vlsiemb.git
+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     
+https://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@github.com/jingu1/vlsiemb.git
